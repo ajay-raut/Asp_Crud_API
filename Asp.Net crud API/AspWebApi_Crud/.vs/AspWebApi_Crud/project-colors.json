@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13ef1e95-471d-436e-8ef4-f5745bba8305": {
+      "ProjectGuid": "13ef1e95-471d-436e-8ef4-f5745bba8305",
+      "DisplayName": "AspWebApi_Crud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
